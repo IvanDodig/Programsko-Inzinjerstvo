@@ -1,0 +1,1 @@
+{"Ante Antic": {"Linearna algebra": 5, "Programiranje 1": 4}, "Marija Marijic": {"Linearna algebra": 4, "Matematicka analiza": 5}}
